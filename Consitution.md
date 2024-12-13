@@ -31,6 +31,8 @@ An Assembly will be held if there are legal proposals scheduled for discussion a
 The Assembly wherein elections as well as legal proposals are discussed and voted on.  
 4.2.1. Held on the first Friday of each month.  
 4.2.2. Topics may be presented in the form of an issue wherein a proposed solution may be voted on.  
+4.2.3. Elections are initiated by a Citizen announcing their candidacy for a title.  
+       i. All subsequent candidacies for this title shall be announced during this Topic.  
 ### Article 3 - Emergency Assembly
 Emergency assemblies may be held in dire situations to pass a decree on any day.  
 4.3.1. May be started by Magistrates on decrees relevant to their responsibilities.  
