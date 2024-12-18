@@ -12,6 +12,7 @@ All Citizens share the same inalienable rights:
 3.1.1. Right to free speech, thought and expression.  
 3.1.2. Right to bear arms.  
 3.1.3. Right to a public trial.  
+3.1.4. Right from tyranny.  
 ### Article 2 - Duties
 All Citizens are responsible, respective to their abilities, for the following duties:  
 3.2.1. Duty of protecting the Nation’s sovereignty.  
