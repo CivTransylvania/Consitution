@@ -90,4 +90,5 @@ The litigants are separated into the parties of the accusers and the accused.
 6.3.1. The accusers may only be represented by themselves (the ones wronged).  
 6.3.2. Any Citizen may review the term of a Magistrate and sue them for the misuse of their position during that term.  
 6.3.3. Both parties are vested with equal ability to represent themselves during the trial.  
-# 7. Law & Amendments
+# 7. Amendments
+The constitution may be amended by a bill passed with a 70% majority vote in the Ecclesia.  
