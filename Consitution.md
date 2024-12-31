@@ -1,4 +1,5 @@
 # 1. Preamble
+We, the people of Democratic Transylvania, affirm our independence, declared on December 1st, 2023, and rooted in our founding on April 12th, 2021. United by the principles of democracy and freedom, we are governed by the rule of law, where human dignity, citizens' rights and freedoms, the free development of human personality, justice, and political pluralism represent supreme values and are guaranteed.  
 # 2. Identity
 ### Article 1 - National attributes
 2.1.1. The National colours of Transylvania are Blue, Red and Yellow.  
