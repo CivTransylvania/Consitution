@@ -4,7 +4,7 @@ We, the people of Democratic Transylvania, affirm our independence, declared on 
 ### Article 1 - National attributes
 2.1.1. The National colours of Transylvania are Blue, Red and Yellow.  
 2.1.2. The National Motto of Transylvania is “Glory to Transylvania”.  
-2.1.3. The national anthem of the Republic of Transylvania is “Siebenbürgenlied”
+2.1.3. The national anthem of Transylvania is “Siebenbürgenlied”
 2.1.4. The capital of Transylvania is Cluj-Napoca.  
 # 3. Citizenship
 All Citizens are equal within the public institutions of Transylvania.
